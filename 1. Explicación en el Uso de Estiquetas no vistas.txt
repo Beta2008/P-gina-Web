@@ -1,0 +1,22 @@
+--EXPLICACIÓN EN EL USO DE ETIQUETAS NO VISTAS EN CLASE EN MIS TRABAJOS: "Actividad #2"
+
+1. Uso de <style>: Usé está etiqueta para poder personalizar mejor mi página HTML, entre las funciones se encuentra
+FONT-FAMILY (osea, para cambaiar la fuente) y FONT-STYLE (que use italic para curvearla hacia un lado y se viera más estético)
+
+2. Uso de <audio>: Usé esta etiqueta para darle ambientación en mi trabajo; esta etiqueta me permitió añadir una pista que descargué
+(por supuesto que puede revisarla) para mejorar un poquito mas el trabajo. Funciona similar a otras funciones para 
+importar archivos como IMG, SCRIPT, CSS o LINK. Le recomiendo leer el documento de ADVERTENCIA PUES HAY ALGO IMPORTANTE AHI...
+
+3. Uso de <table>, <th>, <tr> y <td>: Usé estas etiquetas para darle un formato de tabla a mi trabajo. Quería que se viera mejor
+y más organizado mi página, por lo que las usé. 
+
+-"table" inicializa la tabla
+-"th" le da el formato de ENCABEZADO DE TABLA a un texto
+-"tr" indican las filas
+-Y "td" indican el contenido de cada columna
+
+(Esta etiqueta nos la enseñó el profe Hector de programación, por lo que decidí usarla... 
+espero y sea de su agrado...)
+-----------------------------------------------------------------------------------------------------------
+
+Creo que en este trabajo sería todo por explicar, GRACIAS!!!

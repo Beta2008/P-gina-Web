@@ -1,0 +1,11 @@
+--ADVERTECIA!!!!!!!!!!!!! HAY COSAS QUE ACLARAR: "Actividad #2"
+
+1. Tenga cuidado y no se vaya a asustar: Resulta que al momento de usar la opción de audio en HTML, no pude por ahora
+configurar bien el volumen del archivo, por lo que PODRÍA ESCUCHARSE MUY FUERTE SI EL VOLUMEN DE SU PC ESTA MUY 
+ALTO.
+Mi recomendación es poner el audio de la PC en "12", máximo "20".
+(Explico esto ya que, durante la edición y prueba del trabajo, me asuste al escuchar MUY FUERTE y DE REPENTE
+la música XD)
+-----------------------------------------------------------------------------------------------------------------
+
+Creo que eso es todo, GRACIAS!!!!
